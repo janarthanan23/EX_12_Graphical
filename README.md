@@ -7,7 +7,7 @@ Developed by: JANARTHANAN S
 
 Registeration Number :212222040058
 
-Date : 4.11.2024
+
 ## AIM:
 To create and design an android application that draws basic graphical primitives on the screen using Android Studio.
 
